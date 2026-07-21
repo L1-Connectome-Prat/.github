@@ -15,4 +15,4 @@ Enjoy some music to go along with this project!
 
 <br>
 
-[![Listen on Spotify](https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3EDt6XGa5wPMlukoC6obg4)
+[![Listen on Spotify](https://img.shields.io/badge/L1_Pulse-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3EDt6XGa5wPMlukoC6obg4)
