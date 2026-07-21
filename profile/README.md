@@ -6,3 +6,13 @@ Pancrustacean nervous systems exhibit remarkable stereotypy, with conserved neur
 
 NOTE : More analyses repos and figures will be made available closer to paper publication. 
 
+
+Enjoy some music to go along with this project!
+
+<a href="https://open.spotify.com/playlist/3EDt6XGa5wPMlukoC6obg4">
+  <img src="https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f34c34da2c7e9184bb3b33e3" width="120" style="border-radius: 10px;" alt="L1 Pulse"/>
+</a>
+
+<br>
+
+[![Listen on Spotify](https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3EDt6XGa5wPMlukoC6obg4)
